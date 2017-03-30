@@ -9,3 +9,11 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# cd
+ex. `cd exercise-1` if the current directory has a sub-directory called exercise-1
+* _Use_
+   - Use to change current directory
+* _How to Use_
+   - Can provide either a explicit or implicit path
+   - `cd ..` goes up one directory
